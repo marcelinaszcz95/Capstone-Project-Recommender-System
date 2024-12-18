@@ -1,7 +1,11 @@
 jupyterlab==3.6.3
 matplotlib==3.7.1
 numpy==1.24.3
-pandas==2.0.1
+pandas==2.2.1
 seaborn==0.11.2
 scikit-learn==1.2.2
+pytorch==4.47.1 # for MAC
+torch==2.5.1 # for Windows
+cython==3.0.11
+scikit-surprise==1.1.4
 statsmodels==0.14.0
