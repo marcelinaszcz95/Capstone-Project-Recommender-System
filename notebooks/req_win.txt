@@ -1,0 +1,20 @@
+#For folder structure
+os
+requests
+gzip
+shutil
+pandas
+json
+
+#For the EDA
+matplotlib
+numpy
+seaborn
+wordcloud
+
+#For Modeling
+tqdm
+ipywidgets
+scikit-learn
+scipy
+torch # pointing to local installation?
